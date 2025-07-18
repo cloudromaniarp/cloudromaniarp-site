@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CLOUD ROMANIA - FiveM</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">CLOUD <span>ROMANIA</span></div>
+    <nav>
+      <ul>
+        <li><a href="#">Acasă</a></li>
+        <li><a href="#">Forum</a></li>
+        <li><a href="#">Discord</a></li>
+        <li><a href="#">Regulamente</a></li>
+        <li><a href="#">Staff</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Bine ai venit pe <span>CLOUD ROMANIA</span>!</h1>
+      <p>Nu ești înregistrat pe forumul nostru.<br>Te rugăm să te înregistrezi pentru a avea acces complet!</p>
+      <div class="buttons">
+        <a href="#" class="btn">Sign In</a>
+        <a href="#" class="btn orange">Sign Up</a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 CLOUD ROMANIA | Toate drepturile rezervate.</p>
+  </footer>
+</body>
+</html>
